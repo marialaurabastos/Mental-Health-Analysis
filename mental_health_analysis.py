@@ -1,3 +1,5 @@
+# --- PROJETO 1 ---
+
 # --- CLASSE PARA REPRESENTAR UM PARTICIPANTE ---
 class Participants:
     def __init__(self, 
